@@ -1,4 +1,5 @@
 Amazon Return Policy Bot
+
 This project implements a Telegram bot that assists users with questions related to Amazon's return policies. The bot uses a language model to retrieve and process relevant information from an Amazon return policy document, providing concise and accurate responses to user queries.
 
 Bot's link
